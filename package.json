@@ -1,0 +1,27 @@
+{
+  "name": "week11-apiautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --timout 1000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navigatorlg/week11-ApiAutomation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navigatorlg/week11-ApiAutomation/issues"
+  },
+  "homepage": "https://github.com/navigatorlg/week11-ApiAutomation#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
